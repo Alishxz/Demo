@@ -4,49 +4,34 @@
   "facebook_interstitial_ad_id": "",
   "facebook_native_ad_id": "",
   "admob_appopen_ad_id": [
-    "https://d2isj403unfbyl.cloudfront.net",
-    "https://backend.northghost.com",
-    "https://api-stage.northghost.com",
-    "https://api-prod.northghost.com",
-    "https://api-dev.northghost.com",
-    "https://developer.aura.com"
+    "0",
+    "0",
+    "/6499/example/app_open_new"
   ],
   "admob_banner_ad_id": [
-    "https://d2isj403unfbyl.cloudfront.net",
-    "https://backend.northghost.com",
-    "https://api-stage.northghost.com",
-    "https://api-prod.northghost.com",
-    "https://api-dev.northghost.com",
-    "https://developer.aura.com"
+    "0",
+    "0",
+    "/6499/example/banner"
   ],
   "admob_bottom_native_ad_id": [
-    "https://d2isj403unfbyl.cloudfront.net",
-    "https://backend.northghost.com",
-    "https://api-stage.northghost.com",
-    "https://api-prod.northghost.com",
-    "https://api-dev.northghost.com",
-    "https://developer.aura.com"
+    "0",
+    "0",
+    "/6499/example/native"
   ],
   "admob_interstitial_ad_id": [
-    "https://d2isj403unfbyl.cloudfront.net",
-    "https://backend.northghost.com",
-    "https://api-stage.northghost.com",
-    "https://api-prod.northghost.com",
-    "https://api-dev.northghost.com",
-    "https://developer.aura.com"
+    "0",
+    "0",
+    "/6499/example/interstitial"
   ],
   "admob_native_ad_id": [
-    "https://d2isj403unfbyl.cloudfront.net",
-    "https://backend.northghost.com",
-    "https://api-stage.northghost.com",
-    "https://api-prod.northghost.com",
-    "https://api-dev.northghost.com",
-    "https://developer.aura.com"
+    "0",
+    "0",
+    "/6499/example/native"
   ],
   "ads_type": "admob",
   "admob_reward_ad_id": "",
   "unity_ad_id": "",
-  "bottom_ads_type": "admob",
+  "bottom_ads_type": "banner",
   "ads_click": 0,
   "back_click": 0,
   "native_page_wise": 0,
