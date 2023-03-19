@@ -71,7 +71,7 @@
     "https://developer.aura.com"
   ],
   "vpn_url_default": "https://backend.northghost.com",
-  "emergency": true,
+  "emergency": false,
   "version_code": "2",
   "version_name": "2",
   "facebook_ads_native_bg_color": "#ffffff",
