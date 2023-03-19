@@ -66,7 +66,7 @@
   "admob_native_bg_color": "#071935",
   "admob_native_btn_color": "#000000",
   "admob_native_btn_text_color": "#ffffff",
-  "admob_native_context_text_color": "#000000",
+  "admob_native_context_text_color": "#ffffff",
   "analytics": false,
   "coming_soon": false,
   "starting_screen_content_show": 1,
