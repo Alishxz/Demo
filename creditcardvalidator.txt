@@ -4,19 +4,19 @@
   "facebook_interstitial_ad_id": "",
   "facebook_native_ad_id": "",
   "admob_appopen_ad_id": [
-    
+    "/22892076798/creditopen"
   ],
   "admob_banner_ad_id": [
-
+"/22892076798/Credit_banner"
   ],
   "admob_bottom_native_ad_id": [
-
+"/22892076798/creditnative"
   ],
   "admob_interstitial_ad_id": [
-
+"/22892076798/creditinter"
   ],
   "admob_native_ad_id": [
-
+"/22892076798/creditnative"
   ],
   "ads_type": "admob",
   "admob_reward_ad_id": "",
