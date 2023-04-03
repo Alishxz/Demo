@@ -1,8 +1,8 @@
 {
   "facebook_banner_ad_id": "",
-  "facebook_bottom_native_ad_id": "",
-  "facebook_interstitial_ad_id": "",
-  "facebook_native_ad_id": "",
+  "facebook_bottom_native_ad_id": "750105573328963_750113483328172",
+  "facebook_interstitial_ad_id": "750105573328963_750113273328193",
+  "facebook_native_ad_id": "750105573328963_750113363328184",
   "admob_appopen_ad_id": [
     "/22892076798/creditopen"
   ],
