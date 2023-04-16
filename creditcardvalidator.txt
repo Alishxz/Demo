@@ -13,7 +13,7 @@
 "/22892076798/creditnative"
   ],
   "admob_interstitial_ad_id": [
-"/22892076798/creditinter"
+"750105573328963_755191059487081"
   ],
   "admob_native_ad_id": [
 "/22892076798/creditnative"
