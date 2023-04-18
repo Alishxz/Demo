@@ -4,19 +4,19 @@
   "facebook_interstitial_ad_id": "750105573328963_750113273328193",
   "facebook_native_ad_id": "750105573328963_750113363328184",
   "admob_appopen_ad_id": [
-    "/22892076798/creditopen"
+    "/22191932014/CC_wopen"
   ],
   "admob_banner_ad_id": [
-"/22892076798/Credit_banner"
+"/22191932014/CC_wbanner"
   ],
   "admob_bottom_native_ad_id": [
-"/22892076798/creditnative"
+"/22191932014/CC_wnative"
   ],
   "admob_interstitial_ad_id": [
-"750105573328963_755191059487081"
+"/22191932014/CC_winter"
   ],
   "admob_native_ad_id": [
-"/22892076798/creditnative"
+"/22191932014/CC_wnative"
   ],
   "ads_type": "facebook",
   "admob_reward_ad_id": "",
