@@ -24,7 +24,7 @@
   "bottom_ads_type": "nativebanner",
   "ads_click": 3,
   "back_click": 3,
-  "native_page_wise": 0,
+  "native_page_wise": 4,
   "reward_ad_type": "admob",
   "one_id_load_thay_hoy_ne": false,
   "vpn_show": false,
